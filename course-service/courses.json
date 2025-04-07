@@ -1,0 +1,12 @@
+[
+    {
+        "id": "1",
+        "name": "Introduction to Programming",
+        "enrolledStudents": []
+    },
+    {
+        "id": "2",
+        "name": "Data Structures",
+        "enrolledStudents": []
+    }
+]
